@@ -66,7 +66,7 @@
                       <value type="int" key="scale">-1</value>
                       <link type="object" struct-name="db.SimpleDatatype" key="simpleType">com.mysql.rdbms.mysql.datatype.varchar</link>
                       <value type="string" key="comment"></value>
-                      <value type="string" key="name">name</value>
+                      <value type="string" key="name">namessss</value>
                       <value type="string" key="oldName"></value>
                       <link type="object" struct-name="GrtObject" key="owner">{1302B45C-B136-4A04-B7BB-77C22F5C8FEB}</link>
                     </value>
