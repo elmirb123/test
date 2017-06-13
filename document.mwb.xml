@@ -495,7 +495,7 @@
                       <value type="int" key="scale">-1</value>
                       <link type="object" struct-name="db.SimpleDatatype" key="simpleType">com.mysql.rdbms.mysql.datatype.int</link>
                       <value type="string" key="comment"></value>
-                      <value type="string" key="name">category_id</value>
+                      <value type="string" key="name">category_idss</value>
                       <value type="string" key="oldName"></value>
                       <link type="object" struct-name="GrtObject" key="owner">{B52E770B-AC17-4CA7-84DB-1BAFDCAA1486}</link>
                     </value>
