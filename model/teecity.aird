@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_lYvCAFMhEeeM87X83bvLJQ" selectedViews="_lmS84FMhEeeM87X83bvLJQ" version="8.1.1">
+  <models xmi:type="ecore:EPackage" href="teecity.ecore#/"/>
+  <models xmi:type="genmodel:GenModel" href="teecity.genmodel#/"/>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_lmS84FMhEeeM87X83bvLJQ" initialized="true">
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_lwDV0FMhEeeM87X83bvLJQ" name="teecity class diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_lwaiMFMhEeeM87X83bvLJQ" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_lwaiMVMhEeeM87X83bvLJQ" type="Sirius" element="_lwDV0FMhEeeM87X83bvLJQ" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_r_hIwFMhEeeM87X83bvLJQ" type="2003" element="_r-42oFMhEeeM87X83bvLJQ">
+            <children xmi:type="notation:Node" xmi:id="_r_iW4FMhEeeM87X83bvLJQ" type="5007"/>
+            <children xmi:type="notation:Node" xmi:id="_r_jlAFMhEeeM87X83bvLJQ" type="7004">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_r_jlAVMhEeeM87X83bvLJQ"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_r_jlAlMhEeeM87X83bvLJQ"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_r_hIwVMhEeeM87X83bvLJQ" fontName="Segoe UI" fontHeight="8"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r_hIwlMhEeeM87X83bvLJQ" x="206" y="136" width="120" height="100"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_lwaiMlMhEeeM87X83bvLJQ"/>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_ubjtYFMhEeeM87X83bvLJQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+        <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_ubkUcFMhEeeM87X83bvLJQ">
+          <computedStyleDescriptions xmi:type="style:FlatContainerStyleDescription" xmi:id="_ubmJoVMhEeeM87X83bvLJQ" arcWidth="8" arcHeight="8" tooltipExpression="service:renderTooltip" roundedCorner="true" widthComputationExpression="12" heightComputationExpression="10" backgroundStyle="Liquid">
+            <borderColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='red']"/>
+            <labelColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='red']"/>
+            <backgroundColor xmi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='white']"/>
+            <foregroundColor xmi:type="description:UserFixedColor" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@userColorsPalettes[name='Ecore%20Palette']/@entries[name='EClass']"/>
+          </computedStyleDescriptions>
+          <cache xmi:type="diagram:DiagramElementMapping2ModelElement" xmi:id="_ubk7gFMhEeeM87X83bvLJQ">
+            <key xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
+            <value xmi:type="diagram:ModelElement2ViewVariable" xmi:id="_ublikFMhEeeM87X83bvLJQ">
+              <key xmi:type="ecore:EClass" href="teecity.ecore#//Test%20Class1"/>
+              <value xmi:type="diagram:ViewVariable2ContainerVariable" xmi:id="_ubmJoFMhEeeM87X83bvLJQ" key="_r-42oFMhEeeM87X83bvLJQ">
+                <value xmi:type="diagram:ContainerVariable2StyleDescription" xmi:id="_ubmJolMhEeeM87X83bvLJQ" value="_ubmJoVMhEeeM87X83bvLJQ">
+                  <key xmi:type="ecore:EPackage" href="teecity.ecore#/"/>
+                </value>
+              </value>
+            </value>
+          </cache>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_r-42oFMhEeeM87X83bvLJQ" name="Test Class1" tooltipText="" width="12" height="10">
+        <target xmi:type="ecore:EClass" href="teecity.ecore#//Test%20Class1"/>
+        <semanticElements xmi:type="ecore:EClass" href="teecity.ecore#//Test%20Class1"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_ubmwsFMhEeeM87X83bvLJQ" description="_ubmJoVMhEeeM87X83bvLJQ" backgroundStyle="Liquid">
+          <labelColor xmi:type="viewpoint:RGBValues" xmi:id="_ubmwsVMhEeeM87X83bvLJQ" red="239" green="41" blue="41"/>
+          <borderColor xmi:type="viewpoint:RGBValues" xmi:id="_ubmwslMhEeeM87X83bvLJQ" red="239" green="41" blue="41"/>
+          <backgroundColor xmi:type="viewpoint:RGBValues" xmi:id="_ubmws1MhEeeM87X83bvLJQ" red="255" green="255" blue="255"/>
+          <foregroundColor xmi:type="viewpoint:RGBValues" xmi:id="_ubmwtFMhEeeM87X83bvLJQ" red="255" green="252" blue="216"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_lwDV1VMhEeeM87X83bvLJQ"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer"/>
+      <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Package']"/>
+      <activatedLayers xmi:type="description_1:AdditionalLayer" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@additionalLayers[name='Validation']"/>
+      <target xmi:type="ecore:EPackage" href="teecity.ecore#/"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']"/>
+  </ownedViews>
+</viewpoint:DAnalysis>
